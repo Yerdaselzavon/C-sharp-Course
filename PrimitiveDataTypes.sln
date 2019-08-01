@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Interger data types", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Floating point", "03.Floating point\03.Floating point.csproj", "{7D542513-4E93-4CED-8CE0-EA5C118BD9AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Booleans", "04.Booleans\04.Booleans.csproj", "{43CC5B01-3C97-446D-A411-D98C188EFA3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Characters", "05.Characters\05.Characters.csproj", "{D18B470A-2F0B-456E-A72D-F76DDE478232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{7D542513-4E93-4CED-8CE0-EA5C118BD9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D542513-4E93-4CED-8CE0-EA5C118BD9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D542513-4E93-4CED-8CE0-EA5C118BD9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43CC5B01-3C97-446D-A411-D98C188EFA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CC5B01-3C97-446D-A411-D98C188EFA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CC5B01-3C97-446D-A411-D98C188EFA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CC5B01-3C97-446D-A411-D98C188EFA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D18B470A-2F0B-456E-A72D-F76DDE478232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18B470A-2F0B-456E-A72D-F76DDE478232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18B470A-2F0B-456E-A72D-F76DDE478232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18B470A-2F0B-456E-A72D-F76DDE478232}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
