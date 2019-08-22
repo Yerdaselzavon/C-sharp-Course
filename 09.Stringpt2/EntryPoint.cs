@@ -1,6 +1,6 @@
 ﻿class EntryPoint
 {
-    static void Main(string[] args)
+    static void Main()
     {
         int bigNumber = 3456741;
 

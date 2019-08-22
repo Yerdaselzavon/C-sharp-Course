@@ -1,6 +1,6 @@
 ﻿class EntryPoint
 {
-    static void Main(string[] args)
+    static void Main()
     {
         string nameOfCharacter = "Link ";
         int damageTaken = 100;
